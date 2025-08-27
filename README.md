@@ -39,7 +39,7 @@ The project demonstrates how actuarial and underwriting metrics can be monitored
 
 ## 📸 Screenshots
 ### Dashboard Overview  
-![Dashboard](image/dashboard.png)  
+![Dashboard](image/Insurance_dashboard.png)  
 
 ---
 
